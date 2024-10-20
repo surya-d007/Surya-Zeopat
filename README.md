@@ -74,7 +74,6 @@ Continuous retrieval of weather data for metros in India (Delhi, Mumbai, Chennai
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version X.X.X)
-- [Docker](https://www.docker.com/) (if using containers)
 - [OpenWeatherMap API Key](https://openweathermap.org/api)
 
 ### Installation
