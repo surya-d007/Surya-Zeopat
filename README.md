@@ -1,5 +1,5 @@
-#surya.vit25@gmail.com
-#Resume - https://drive.google.com/file/d/1YMS5NENvq-73eo3O-EPX2Jum2LuP-JCC/view?usp=sharing
+# surya.vit25@gmail.com
+# Resume - https://drive.google.com/file/d/1YMS5NENvq-73eo3O-EPX2Jum2LuP-JCC/view?usp=sharing
 
 
 # Projects Overview
